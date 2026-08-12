@@ -1,0 +1,11 @@
+# Header navigation for a compact one-page academic profile.
+
+main:
+  - title: "About Me"
+    url: /#about-me
+
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Education"
+    url: /#education

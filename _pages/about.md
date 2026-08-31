@@ -68,7 +68,8 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 - **Mohamed bin Zayed University of Artificial Intelligence**, Ph.D. Candidate, 2026–present  
   Advisor: Prof. Jianing Qiu.
 
-- **Peking University**, M.S. in Computer Science, 2023–2026.
+- **Peking University**, M.S. in Computer Science, 2023–2026.<br>
+  Advisors: Prof. Guibo Luo and Prof. Yuchao Yang.
 
 - **South China University of Technology**, B.Eng. in Optoelectronic Information Science and Engineering, 2019–2023.
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Prof. Jianing Qiu.
+I am currently a Ph.D. student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Prof. Jianing Qiu.
 
 My research interests lie at the intersection of artificial intelligence and healthcare, with a focus on foundation models for physiological and brain signals, multimodal learning, and medical time-series modeling.
 
@@ -65,7 +65,7 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 
 # Education
 
-- **Mohamed bin Zayed University of Artificial Intelligence**, Ph.D. Candidate, 2026–present  
+- **Mohamed bin Zayed University of Artificial Intelligence**, Ph.D. Student, 2026–present  
   Advisor: Prof. Jianing Qiu.
 
 - **Peking University**, M.S. in Computer Science, 2023–2026.<br>

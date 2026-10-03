@@ -33,7 +33,7 @@ Before joining MBZUAI, I received my M.S. in Computer Science from Peking Univer
   <div style="flex: 1 1 360px;">
     <strong>MedTS-TTT: Test-Time Training for Medical Time Series Classification</strong><br>
     <strong>Mingzhi Chen</strong>, Yiyu Gui, and Guibo Luo*.<br>
-    <em>MICCAI</em>, 2026 / <a href="https://arxiv.org/abs/2606.21329">Paper</a> / <a href="https://github.com/mingzhi-c/MedTS-TTT">Code</a>
+    <em>MICCAI</em>, 2026 / <a href="https://link.springer.com/chapter/10.1007/978-3-032-38072-2_34">Paper</a> / <a href="https://github.com/mingzhi-c/MedTS-TTT">Code</a>
   </div>
 </div>
 
@@ -44,7 +44,7 @@ Before joining MBZUAI, I received my M.S. in Computer Science from Peking Univer
   <div style="flex: 1 1 360px;">
     <strong>LEGEND: A Language-Aligned EEG Foundation Model with Flow Matching Latent Denoising</strong><br>
     Yiyu Gui, <strong>Mingzhi Chen</strong>, and Guibo Luo*.<br>
-    <em>MICCAI Oral</em>, 2026 / Paper (to be updated) / <a href="https://github.com/5GYYYYY/LEGEND">Code</a>
+    <em>MICCAI Oral</em>, 2026 / <a href="https://link.springer.com/chapter/10.1007/978-3-032-38239-9_32">Paper</a> / <a href="https://github.com/5GYYYYY/LEGEND">Code</a>
   </div>
 </div>
 
